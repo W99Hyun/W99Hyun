@@ -30,6 +30,10 @@
 - **President & Performer**  
   Kahlua Band `March 2019 – March 2021, September 2022 – December 2023`
 
+### Additional Information
+If you want to see more information about me, here is my [**CV 📥**](https://github.com/W99Hyun/W99Hyun/blob/main/WooHyunJeong__CV.pdf)
+
+
 ## 🚀 Projects  
 
 ### **Bioinformatics Web Platform Development**  
